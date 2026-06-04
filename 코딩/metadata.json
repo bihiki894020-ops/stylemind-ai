@@ -1,0 +1,6 @@
+{
+  "name": "StyleMind AI",
+  "description": "Premium Gen Z fashion-tech platform featuring AI style diagnosis, style DNA tracking, outfit recommendations, clothing shopping, and an AI fashion coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
